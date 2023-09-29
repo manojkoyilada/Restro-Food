@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Restro-Food/static/css/main.32c7565f.css",
+    "main.js": "/Restro-Food/static/js/main.366cc2e5.js",
+    "static/js/787.50a7bc75.chunk.js": "/Restro-Food/static/js/787.50a7bc75.chunk.js",
+    "static/media/meals7.jpg": "/Restro-Food/static/media/meals7.bddbae59681a96f3d89f.jpg",
+    "index.html": "/Restro-Food/index.html",
+    "main.32c7565f.css.map": "/Restro-Food/static/css/main.32c7565f.css.map",
+    "main.366cc2e5.js.map": "/Restro-Food/static/js/main.366cc2e5.js.map",
+    "787.50a7bc75.chunk.js.map": "/Restro-Food/static/js/787.50a7bc75.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32c7565f.css",
+    "static/js/main.366cc2e5.js"
+  ]
+}
